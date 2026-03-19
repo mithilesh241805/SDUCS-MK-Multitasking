@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Mac/OSX
+.DS_Store
+
+# Environments
+.env
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+coverage/
+
+# Flutter/Dart/Mobile
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+android/.gradle/
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.iml
+*.iws
+
+# Misc
+*.log
+coverage/
+.vercel/
